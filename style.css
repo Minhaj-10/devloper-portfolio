@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+
+    font-family: 'Open Sans', sans-serif; 
+}
+
+/* header and nav style */
+.nav-logo{
+    font-weight: 800;
+    font-size: 45px;
+    line-height: 61px;
+    text-transform: capitalize;
+}
+.dtext1{
+   color: #FD6E0A;
+}
